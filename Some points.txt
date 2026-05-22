@@ -1,0 +1,12 @@
+- Python interpreter and compiler
+- Compiler errors vs run-time errors
+- Magic numbers
+- Named constants (use named constants instead of magic numbers)
+- Roundoff Errors
+- Each char inside a String has an index number
+- Methods vs. Functions
+- Pseudocode
+
+-Python String Formatting            
+https://www.python-course.eu/python3_formatted_output.php
+https://realpython.com/python-string-formatting/
